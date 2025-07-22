@@ -6,7 +6,7 @@
 
 📊 **Comparison**: Number of Machine Learning, Ensemble-Based, and Deep Learning Models
 
-🎯 **Goal**: Predict risk of cardiovascular diseases in patients based on lifestyle factors and medical data using 55 different features like age, weight, body mass index, smoking, other diseases, cholesterol, blood pressure, etc.
+🎯 **Goal**: Predict risk of cardiovascular diseases in patients based on lifestyle factors and medical data using 11 common features in all these datasets.
 
 📊 **Performance**:
 - Accuracy: 99.16%, 96.64%, 95.52%, 96.01%, 95.29%
